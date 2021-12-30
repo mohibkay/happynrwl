@@ -1,6 +1,8 @@
 {
   "version": 2,
   "projects": {
+    "hotels": "apps/hotels",
+    "hotels-e2e": "apps/hotels-e2e",
     "tuskdesk": "apps/tuskdesk",
     "tuskdesk-e2e": "apps/tuskdesk-e2e"
   }
